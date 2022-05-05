@@ -143,7 +143,7 @@ Note: it is very important to read and study from Material Design and IOS Design
 
 - [Sherif Amin](https://www.facebook.com/sherifamin91)
 
-- [UXaweya](https://www.facebook.com/groups/188850591141932)*
+- [UXaweya](https://www.facebook.com/groups/188850591141932)
 
 
 ### Usability Testing course (maze):
