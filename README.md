@@ -16,6 +16,14 @@ This Road Map for Beginners
 - English Tutorial : [learnux.io](https://learnux.io/course/adobe-xd)
 - arabic Tutorial : [Ehab fayez](https://youtube.com/playlist?list=PLjzhiGLyugKzxD2WKrI0riNZ9E6HoZYkH)
 
+
+
+*figma Tool*
+
+- arabic Tutorial : [Ehab fayez](https://www.youtube.com/watch?v=7K7pEPFepWA&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&ab_channel=EhabFayez)
+- English Tutorial : [mizko](https://www.thedesignership.com/figma-crash-course/welcome)
+- 
+
 ### The most important thing in learning UI design is coping designs and a lot of practice.
 
 - [XD Challenge (Behance)](https://www.behance.net/challenge/xd)
@@ -127,6 +135,12 @@ Note: it is very important to read and study from Material Design and IOS Design
 **[UX Design Course Nanodegree (Udacity)](https://www.udacity.com/course/ux-designer-nanodegree--nd578)**
 
 
+### UIX Arabic Resources :
+
+**[UIX Arabian blog](https://uxblogger.com/user-experience-design-intro/?fbclid=IwAR2ZGYlP2-DxQfofOLO6H1h6opmwWEuVClzzRKZB_Uef82yfCWEvKbNO-CY)**
+**[UIX Arabian bage](https://www.facebook.com/arabian.uix)**
+**[Sherif Amin](https://www.facebook.com/sherifamin91)**
+**[UXaweya](**[Sherif Amin](https://www.facebook.com/sherifamin91)**)**
 
 
 ### Usability Testing course (maze):
