@@ -137,10 +137,13 @@ Note: it is very important to read and study from Material Design and IOS Design
 
 ### UIX Arabic Resources :
 
-**[UIX Arabian blog](https://uxblogger.com/user-experience-design-intro/?fbclid=IwAR2ZGYlP2-DxQfofOLO6H1h6opmwWEuVClzzRKZB_Uef82yfCWEvKbNO-CY)**
-**[UIX Arabian bage](https://www.facebook.com/arabian.uix)**
-**[Sherif Amin](https://www.facebook.com/sherifamin91)**
-**[UXaweya](https://www.facebook.com/groups/188850591141932)**
+-[UIX Arabian blog](https://uxblogger.com/user-experience-design-intro/?fbclid=IwAR2ZGYlP2-DxQfofOLO6H1h6opmwWEuVClzzRKZB_Uef82yfCWEvKbNO-CY)**
+
+-[UIX Arabian bage](https://www.facebook.com/arabian.uix)**
+
+-[Sherif Amin](https://www.facebook.com/sherifamin91)**
+
+-[UXaweya](https://www.facebook.com/groups/188850591141932)**
 
 
 ### Usability Testing course (maze):
