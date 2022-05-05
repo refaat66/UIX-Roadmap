@@ -139,7 +139,7 @@ Note: it is very important to read and study from Material Design and IOS Design
 
 - [UIX Arabian blog](https://uxblogger.com/user-experience-design-intro/?fbclid=IwAR2ZGYlP2-DxQfofOLO6H1h6opmwWEuVClzzRKZB_Uef82yfCWEvKbNO-CY)
 
-- [UIX Arabian bage](https://www.facebook.com/arabian.uix)
+- [UIX Arabian page](https://www.facebook.com/arabian.uix)
 
 - [Sherif Amin](https://www.facebook.com/sherifamin91)
 
