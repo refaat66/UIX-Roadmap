@@ -137,11 +137,9 @@ Note: it is very important to read and study from Material Design and IOS Design
 
 ### UIX Arabic Resources :
 
-- [UIX Arabian blog](https://uxblogger.com/user-experience-design-intro/?fbclid=IwAR2ZGYlP2-DxQfofOLO6H1h6opmwWEuVClzzRKZB_Uef82yfCWEvKbNO-CY)
+- [Sherif Amin](https://www.facebook.com/sherifamin91)
 
 - [UIX Arabian page](https://www.facebook.com/arabian.uix)
-
-- [Sherif Amin](https://www.facebook.com/sherifamin91)
 
 - [UXaweya](https://www.facebook.com/groups/188850591141932)
 
@@ -213,7 +211,7 @@ Note: it is very important to read and study from Material Design and IOS Design
 
 
    
-Refaat ui/ux designer at * Baianat.*
+Refaat ui/ux designer at ## * Baianat.*
 
 ## *best wishes*
 
