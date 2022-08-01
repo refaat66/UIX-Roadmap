@@ -211,7 +211,7 @@ Note: it is very important to read and study from Material Design and IOS Design
 
 
    
-Refaat ui/ux designer at ## * Baianat.*
+Refaat ui/ux designer at Baianat.
 
 ## *best wishes*
 
