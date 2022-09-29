@@ -10,6 +10,12 @@ This Road Map for Beginners
 
 ## *We recommend studying ux parallel with ui-*
 
+
+*figma Tool*
+
+- arabic Tutorial : [Ehab fayez](https://www.youtube.com/watch?v=7K7pEPFepWA&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&ab_channel=EhabFayez)
+- English Tutorial : [mizko](https://www.thedesignership.com/figma-crash-course/welcome)
+
 *Adobe XD Tool*
 
 - English Tutorial : [from adobe xd site](https://www.adobe.com/products/xd/learn/get-started.html)
@@ -17,12 +23,6 @@ This Road Map for Beginners
 - arabic Tutorial : [Ehab fayez](https://youtube.com/playlist?list=PLjzhiGLyugKzxD2WKrI0riNZ9E6HoZYkH)
 
 
-
-*figma Tool*
-
-- arabic Tutorial : [Ehab fayez](https://www.youtube.com/watch?v=7K7pEPFepWA&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&ab_channel=EhabFayez)
-- English Tutorial : [mizko](https://www.thedesignership.com/figma-crash-course/welcome)
-- 
 
 ### The most important thing in learning UI design is coping designs and a lot of practice.
 
